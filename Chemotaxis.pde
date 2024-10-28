@@ -25,7 +25,7 @@ int bacteriaCount = 0;
 boolean isMousePressed = false;
 
 void setup() {
-  size(1000, 800);
+  size(600, 600);
 }
 
 void draw() {
